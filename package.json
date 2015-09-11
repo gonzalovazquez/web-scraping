@@ -1,0 +1,19 @@
+{
+  "name": "web-scraping",
+  "version": "0.0.1",
+  "author": "Gonzalo Vazquez",
+  "description": "A node script for web scraping",
+  "private": true,
+  "contributors": [
+    {
+      "name": "Gonzalo Vazquez",
+      "email": "gonzalo.segura1@gmail.com"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gonzalovazquez/web-scraping.git"
+  },
+  "devDependencies": {
+  }
+}
